@@ -17,13 +17,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | CTI Integration Project         | <a href="https://github.com/NasMyDFIR/CTI-Integration">CTI Integration Project</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -41,7 +36,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Cloud
 <div>
    <img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
@@ -59,7 +53,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- <a href="https://github.com/NasMyDFIR/Detection-Lab/tree/main">Detection Lab</a>
 - <a href="https://github.com/NasMyDFIR/CTI-Integration">CTI Integration Lab</a>
-- SOC Automation Project
-- Test Project
