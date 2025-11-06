@@ -15,8 +15,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| CTI Integration Project         | <a href="https://github.com/NasMyDFIR/CTI-Integration">CTI Integration Project</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| CTI Integration Project         | <a href="https://github.com/NasMyDFIR/CTI-Integration">CTI Integration Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/NasMyDFIR/Network-Packet-Capture">Network Packet Capture Lab</a>|
 
 ## Tools
 
@@ -54,3 +54,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/NasMyDFIR/CTI-Integration">CTI Integration Lab</a>
+- <a href="https://github.com/NasMyDFIR/Network-Packet-Capture">Network Packet Capture Lab</a>
