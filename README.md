@@ -13,6 +13,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | CTI Integration Project         | <a href="https://github.com/NasMyDFIR/CTI-Integration">CTI Integration Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/NasMyDFIR/Network-Packet-Capture">Network Packet Capture Lab</a>|
+| Microsoft Sentinel Playbook Project | <a href="https://github.com/NasMyDFIR/Microsoft-Sentinel-Playbook">Microsoft Sentinel Playbook Project</a>|
+
 
 ## Tools
 
@@ -50,3 +52,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/NasMyDFIR/CTI-Integration">CTI Integration Lab</a>
 - <a href="https://github.com/NasMyDFIR/Network-Packet-Capture">Network Packet Capture Lab</a>
+- <a href="https://github.com/NasMyDFIR/Microsoft-Sentinel-Playbook">Microsoft Sentinel Playbook Project</a>
