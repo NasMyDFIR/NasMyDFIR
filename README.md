@@ -15,6 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/NasMyDFIR/Network-Packet-Capture">Network Packet Capture Lab</a>|
 | Microsoft Sentinel Playbook | <a href="https://github.com/NasMyDFIR/Microsoft-Sentinel-Playbook">Microsoft Sentinel Playbook Project</a>|
 | Detection Engineering | <a href="https://github.com/NasMyDFIR/Detection-Lab">Detection Engineering Project</a>|
+| Splunk SOAR | <a href="https://github.com/NasMyDFIR/Detection-Lab">Splunk SOAR Project</a>|
 
 
 ## Tools
@@ -55,3 +56,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/NasMyDFIR/Network-Packet-Capture">Network Packet Capture Lab</a>
 - <a href="https://github.com/NasMyDFIR/Microsoft-Sentinel-Playbook">Microsoft Sentinel Playbook Project</a>
 - <a href="https://github.com/NasMyDFIR/Detection-Lab">Detection Engineering Project</a>
+- <a href="https://github.com/NasMyDFIR/Detection-Lab">Splunk SOAR Project</a>
