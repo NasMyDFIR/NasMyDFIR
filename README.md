@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Microsoft Sentinel Playbook | <a href="https://github.com/NasMyDFIR/Microsoft-Sentinel-Playbook">Microsoft Sentinel Playbook Project</a>|
 | Detection Engineering | <a href="https://github.com/NasMyDFIR/Detection-Lab">Detection Engineering Project</a>|
 | Splunk SOAR | <a href="https://github.com/NasMyDFIR/Splunk_SOAR">Splunk SOAR Project</a>|
-
+| AI SOC Automation | <a href="https://github.com/NasMyDFIR/AI_SOC_Automation">AI SOC Automation</a>|
 
 ## Tools
 
@@ -57,3 +57,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/NasMyDFIR/Microsoft-Sentinel-Playbook">Microsoft Sentinel Playbook Project</a>
 - <a href="https://github.com/NasMyDFIR/Detection-Lab">Detection Engineering Project</a>
 - <a href="https://github.com/NasMyDFIR/Splunk_SOAR">Splunk SOAR Project</a>
+- <a href="https://github.com/NasMyDFIR/AI_SOC_Automation">AI SOC Automation</a>
